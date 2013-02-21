@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "bootstrap"
+baseurl: "prose-presentations/"
 exclude:
 - .gitignore
 - README.md
