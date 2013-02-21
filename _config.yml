@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "prose-presentations/"
+baseurl: "http://dittaeva.github.com/prose-presentations/"
 exclude:
 - .gitignore
 - README.md
